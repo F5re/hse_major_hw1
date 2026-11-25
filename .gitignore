@@ -11,3 +11,6 @@ output/
 .DS_Store
 *.tsbuildinfo
 npm-debug.log*
+.vercel
+.playwright-cli
+netlify-*.png
